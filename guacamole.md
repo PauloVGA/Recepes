@@ -1,11 +1,13 @@
 # Guacamole
-
+delicious
 ## Ingredients
 avocado
 sugar
-salt
+peper
 spices
 garlic
+onion
+tomatos
 ## instructions
-
-avocado smashed with sugar, salt, spices, tomatos, and garlic.
+Chop garlic, onion, tomatos
+Smash the avocado and mix it with: sugar, salt, spices, tomatos,onions, and garlic. It is ready to eat
