@@ -8,7 +8,9 @@ spices
 garlic
 onion
 tomatos
+lime
 ## instructions
 Chop garlic, onion, tomatos
-Smash the avocado and mix it with: sugar, salt, spices, tomatos,onions, and garlic. It is ready to eat.
+extract lime juice
+Smash the avocado and mix it with: sugar, salt, spices, tomatos,onions, and garlic. Add the lime juice. It is ready to eat.
 share with up to three people
